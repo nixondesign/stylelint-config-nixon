@@ -7,11 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nixon Design Ltd",
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/NixonDesign/stylelint-config-nixon"
-	},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NixonDesign/stylelint-config-nixon"
+  },
   "dependencies": {
     "stylelint-scss": "^2.0.1"
   },
