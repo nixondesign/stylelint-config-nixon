@@ -74,7 +74,7 @@ module.exports = {
 	// Block
 	'block-closing-brace-empty-line-before': 'never',
 	'block-closing-brace-newline-after': ['always', {
-		ignoreAtRules: ['else']
+		ignoreAtRules: ['else', 'if']
 	}],
 	'block-closing-brace-newline-before': 'always-multi-line',
 	'block-closing-brace-space-after': null,
