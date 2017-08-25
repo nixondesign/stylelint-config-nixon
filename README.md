@@ -27,3 +27,4 @@ For example, to change the `indentation` rule to use spaces:
 		"indentation": 2
 	}
 }
+```
