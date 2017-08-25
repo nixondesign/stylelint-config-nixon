@@ -24,8 +24,11 @@ module.exports = {
 	'scss/dollar-variable-no-missing-interpolation': true,
 
 	// Comment
+	'scss/double-slash-comment-empty-line-before': ['always', {
+		except: ['first-nested'],
+		ignore: ['stylelint-commands']
+	}],
 	'scss/double-slash-comment-whitespace-inside': 'always',
-	// review comments
 
 	// Declaration
 	'scss/declaration-nested-properties': 'never',
