@@ -60,9 +60,7 @@ module.exports = {
 	'declaration-colon-newline-after': 'always-multi-line',
 	'declaration-colon-space-after': 'always-single-line',
 	'declaration-colon-space-before': 'never',
-	'declaration-empty-line-before': ['never', {
-    ignore: ['after-declaration'],
-  }],
+	'declaration-empty-line-before': null,
 
 	// Declaration block
 	'declaration-block-semicolon-newline-after': 'always-multi-line',
