@@ -26,7 +26,7 @@ module.exports = {
 	// Comment
 	'scss/double-slash-comment-empty-line-before': ['always', {
 		except: ['first-nested'],
-		ignore: ['stylelint-commands']
+		ignore: ['between-comments', 'stylelint-commands']
 	}],
 	'scss/double-slash-comment-whitespace-inside': 'always',
 
