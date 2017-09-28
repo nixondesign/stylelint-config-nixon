@@ -1,5 +1,13 @@
 # Changelog
 
+# v1.0.0
+
+Release v1.0.0
+
+# v0.5.0
+
+- Increase max nesting depth
+
 # v0.4.0
 
 - Turn off declaration-empty-line-before rule
