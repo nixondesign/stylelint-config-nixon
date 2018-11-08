@@ -18,6 +18,7 @@ module.exports = {
 
 	// Mixin
 	'scss/at-mixin-argumentless-call-parentheses': 'always',
+	'scss/at-mixin-parentheses-space-before': 'never',
 
 	// at-rule
 	'scss/at-rule-no-unknown': true,
