@@ -143,6 +143,7 @@ module.exports = {
 
 	// General / Sheet
 	'indentation': 'tab',
+	'linebreaks': 'unix',
 	'max-empty-lines': null,
 	'max-line-length': null,
 	'no-eol-whitespace': true,
