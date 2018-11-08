@@ -1,5 +1,15 @@
 # Changelog
 
+# v2.0.0
+
+## Added
+
+- Added `linebreaks` rule
+- Added `no-empty-first-line rule` rule
+- Added `scss/at-else-if-parentheses-space-before` rule
+- Added `scss/at-function-parentheses-space-before` rule
+- Added `scss/at-mixin-parentheses-space-before` rule
+
 # v1.0.0
 
 Release v1.0.0
