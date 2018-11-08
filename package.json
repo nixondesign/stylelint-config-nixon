@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-nixon",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Sharable stylelint config used at Nixon",
   "main": "index.js",
   "scripts": {
