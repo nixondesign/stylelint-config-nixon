@@ -147,5 +147,6 @@ module.exports = {
 	'max-empty-lines': null,
 	'max-line-length': null,
 	'no-eol-whitespace': true,
-	'no-missing-end-of-source-newline': true
+	'no-missing-end-of-source-newline': true,
+	'no-empty-first-line': true
 };
