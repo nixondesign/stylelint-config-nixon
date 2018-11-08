@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-nixon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sharable stylelint config used at Nixon",
   "main": "index.js",
   "scripts": {
@@ -13,12 +13,12 @@
     "url": "https://github.com/NixonDesign/stylelint-config-nixon"
   },
   "dependencies": {
-    "stylelint-scss": "^2.0.1"
+    "stylelint-scss": "^3.3.2"
   },
   "peerDependencies": {
     "stylelint": "8.0.0"
   },
   "devDependencies": {
-    "stylelint": "^8.0.0"
+    "stylelint": "^9.7.1"
   }
 }
