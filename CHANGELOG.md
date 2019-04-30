@@ -1,5 +1,10 @@
 # Changelog
 
+# v2.1.0
+
+- Update stylelint to v10.0.0
+- Update stylelint-scss to v3.6.0
+
 # v2.0.0
 
 ## Added
