@@ -1,5 +1,9 @@
 # Changelog
 
+# v2.3.0
+
+- Increased max-nesting-depth to 3
+
 # v2.1.0
 
 - Update stylelint to v10.0.0

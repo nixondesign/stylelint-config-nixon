@@ -49,7 +49,7 @@ module.exports = {
 	'comment-no-empty': true,
 
 	// General / Sheet
-	'max-nesting-depth': 2,
+	'max-nesting-depth': 3,
 	'no-descending-specificity': null,
 	'no-duplicate-selectors': true,
 	'no-empty-source': [true, {
