@@ -1,5 +1,10 @@
 # Changelog
 
+# v3.0.0
+
+- Updated to Stylelint 13.0.0
+- Fixed deprecated *-blacklist and *-whitelist rules
+
 # v2.3.0
 
 - Increased max-nesting-depth to 3
