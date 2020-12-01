@@ -16,9 +16,9 @@
     "stylelint-scss": "^3.6.0"
   },
   "peerDependencies": {
-    "stylelint": "^10.0.0"
+    "stylelint": "^13.0.0"
   },
   "devDependencies": {
-    "stylelint": "^10.0.0"
+    "stylelint": "^13.0.0"
   }
 }
