@@ -1,11 +1,8 @@
 module.exports = {
-	plugins: [
-		'stylelint-scss'
+	extends: [
+		'./rules/errors.js',
+		'./rules/features.js',
+		'./rules/scss.js',
+		'./rules/style.js',
 	],
-	rules: Object.assign(
-		require('./rules/errors.js'),
-		require('./rules/features.js'),
-		require('./rules/scss.js'),
-		require('./rules/style.js')
-	)
 };
