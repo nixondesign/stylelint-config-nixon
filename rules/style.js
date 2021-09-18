@@ -1,17 +1,10 @@
 module.exports = {
 	// Color
 	'color-hex-case': 'lower',
-	'color-hex-length': ['short', {
-		severity: 'warning'
-	}],
+	'color-hex-length': ['short', { severity: 'warning' }],
 
 	// Font family
 	'font-family-name-quotes': 'always-unless-keyword',
-
-	// Font weight
-	'font-weight-notation': ['numeric', {
-		severity: 'warning'
-	}],
 
 	// Function
 	'function-comma-newline-after': 'always-multi-line',
@@ -31,9 +24,6 @@ module.exports = {
 
 	// String
 	'string-quotes': 'double',
-
-	// Length
-	'length-zero-no-unit': true,
 
 	// Unit
 	'unit-case': 'lower',
@@ -71,9 +61,7 @@ module.exports = {
 
 	// Block
 	'block-closing-brace-empty-line-before': 'never',
-	'block-closing-brace-newline-after': ['always', {
-		ignoreAtRules: ['else', 'if']
-	}],
+	'block-closing-brace-newline-after': ['always', { ignoreAtRules: ['else', 'if'] }],
 	'block-closing-brace-newline-before': 'always-multi-line',
 	'block-closing-brace-space-after': null,
 	'block-closing-brace-space-before': 'always-single-line',
@@ -93,7 +81,6 @@ module.exports = {
 	'selector-pseudo-class-case': 'lower',
 	'selector-pseudo-class-parentheses-space-inside': 'never',
 	'selector-pseudo-element-case': 'lower',
-	'selector-pseudo-element-colon-notation': 'double',
 	'selector-type-case': 'lower',
 
 	// Selector list
@@ -141,12 +128,14 @@ module.exports = {
 	}],
 	'comment-whitespace-inside': 'always',
 
-	// General / Sheet
+	// General/Sheet
 	'indentation': 'tab',
 	'linebreaks': 'unix',
 	'max-empty-lines': null,
 	'max-line-length': null,
 	'no-eol-whitespace': true,
 	'no-missing-end-of-source-newline': true,
-	'no-empty-first-line': true
+	'no-empty-first-line': true,
+	'unicode-bom': 'never',
+	'no-irregular-whitespace': true,
 };
