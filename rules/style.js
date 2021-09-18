@@ -93,7 +93,7 @@ module.exports = {
 		// Rule
 		'rule-empty-line-before': [ 'always-multi-line', {
 			except: ['first-nested'],
-			ignore: ['after-comment']
+			ignore: ['after-comment'],
 		}],
 
 		// Media feature
@@ -114,7 +114,7 @@ module.exports = {
 		'at-rule-empty-line-before': ['always', {
 			except: ['blockless-after-same-name-blockless', 'first-nested'],
 			ignore: ['after-comment'],
-			ignoreAtRules: ['else']
+			ignoreAtRules: ['else'],
 		}],
 		'at-rule-name-case': 'lower',
 		'at-rule-name-newline-after': 'always-multi-line',
@@ -125,7 +125,7 @@ module.exports = {
 		// Comment
 		'comment-empty-line-before': ['always', {
 			except: ['first-nested'],
-			ignore: ['stylelint-commands']
+			ignore: ['stylelint-commands'],
 		}],
 		'comment-whitespace-inside': 'always',
 

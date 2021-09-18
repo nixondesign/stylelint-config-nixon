@@ -58,7 +58,7 @@ module.exports = {
 		// Double slash comment
 		'scss/double-slash-comment-empty-line-before': ['always', {
 			except: ['first-nested'],
-			ignore: ['between-comments', 'stylelint-commands']
+			ignore: ['between-comments', 'stylelint-commands'],
 		}],
 		'scss/double-slash-comment-inline': null,
 		'scss/double-slash-comment-whitespace-inside': 'always',
@@ -103,7 +103,7 @@ module.exports = {
 		'scss/no-dollar-variables': null,
 		'scss/no-duplicate-dollar-variables': [true, {
 			ignoreDefaults: true,
-			ignoreInside: ['at-rule', 'nested-at-rule']
+			ignoreInside: ['at-rule', 'nested-at-rule'],
 		}],
 		'scss/no-duplicate-mixins': true,
 		'scss/no-global-function-names': true,

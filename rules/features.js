@@ -111,6 +111,6 @@ module.exports = {
 
 		// General/Sheet
 		'max-nesting-depth': 3,
-		'no-unknown-animations': null
+		'no-unknown-animations': null,
 	},
 };
