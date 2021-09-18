@@ -39,7 +39,7 @@ module.exports = {
 
 		// @rule
 		'scss/at-rule-no-unknown': true,
-		'scss/at-rule-conditional-no-parentheses': false,
+		'scss/at-rule-conditional-no-parentheses': null,
 
 		// Variables
 		'scss/dollar-variable-colon-newline-after': 'always-multi-line',
