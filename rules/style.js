@@ -91,7 +91,7 @@ module.exports = {
 		'selector-list-comma-space-before': 'never',
 
 		// Rule
-		'rule-empty-line-before': [ 'always-multi-line', {
+		'rule-empty-line-before': [ 'always', {
 			except: ['first-nested'],
 			ignore: ['after-comment'],
 		}],
