@@ -66,7 +66,9 @@ module.exports = {
 		'selector-attribute-name-disallowed-list': null,
 		'selector-attribute-operator-allowed-list': null,
 		'selector-attribute-operator-disallowed-list': null,
-		'selector-class-pattern': null,
+		'selector-class-pattern': [/^(?!js-).+$/, {
+			message: 'Classes with the "js-" prefix should not be used as selectors.'
+		}],
 		'selector-combinator-allowed-list': null,
 		'selector-combinator-disallowed-list': null,
 		'selector-disallowed-list': null,
