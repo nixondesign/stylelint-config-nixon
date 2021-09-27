@@ -1,30 +1,30 @@
 {
-  "name": "stylelint-config-nixon",
-  "version": "3.0.0",
-  "description": "Nixon Design's Stylelint config",
-  "main": "index.js",
-  "author": "Nixon Design Ltd",
-  "license": "MIT",
-  "files": [
-    "rules",
-    "index.js",
-    "scss.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nixondesign/stylelint-config-nixon"
-  },
-  "peerDependencies": {
-    "stylelint": "^13.13.0",
-    "stylelint-scss": "^3.21.0"
-  },
-  "peerDependenciesMeta": {
-    "stylelint-scss": {
-      "optional": true
-    }
-  },
-  "devDependencies": {
-    "stylelint": "^13.13.0",
-    "stylelint-scss": "^3.21.0"
-  }
+	"name": "stylelint-config-nixon",
+	"version": "3.0.0",
+	"description": "Nixon Design's Stylelint config",
+	"main": "index.js",
+	"author": "Nixon Design Ltd",
+	"license": "MIT",
+	"files": [
+		"rules",
+		"index.js",
+		"scss.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nixondesign/stylelint-config-nixon"
+	},
+	"peerDependencies": {
+		"stylelint": "^13.13.0",
+		"stylelint-scss": "^3.21.0"
+	},
+	"peerDependenciesMeta": {
+		"stylelint-scss": {
+			"optional": true
+		}
+	},
+	"devDependencies": {
+		"stylelint": "^13.13.0",
+		"stylelint-scss": "^3.21.0"
+	}
 }
