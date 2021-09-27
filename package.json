@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "Nixon Design Ltd",
   "license": "MIT",
+  "files": [
+    "rules",
+    "index.js",
+    "scss.js"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/nixondesign/stylelint-config-nixon"
