@@ -1,7 +1,7 @@
 {
   "name": "stylelint-config-nixon",
   "version": "3.0.0",
-  "description": "Sharable stylelint config used at Nixon",
+  "description": "Nixon Design's Stylelint config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
