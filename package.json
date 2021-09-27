@@ -8,6 +8,7 @@
 	"files": [
 		"rules",
 		"index.js",
+		"prettier",
 		"scss.js"
 	],
 	"repository": {
