@@ -56,10 +56,10 @@
 - Added `selector-pseudo-element-disallowed-list`
 - Added `shorthand-property-no-redundant-values`
 - Added `unicode-bom`
-- Added scss/no-dollar-variables`
-- Added scss/no-duplicate-dollar-variables`
-- Added scss/no-duplicate-mixins`
-- Added scss/no-global-function-names`
+- Added `scss/no-dollar-variables`
+- Added `scss/no-duplicate-dollar-variables`
+- Added `scss/no-duplicate-mixins`
+- Added `scss/no-global-function-names`
 - Moved scss rules to seperate config
 - Disabled `scss/at-import-partial-extension-blacklist` in favour of `scss/at-import-partial-extension`
 - Error when a class with the `js-` prefix is used as a selector
