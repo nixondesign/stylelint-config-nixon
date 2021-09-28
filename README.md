@@ -20,7 +20,7 @@ Contains our standard rules to be used across all projects.
 
 ```json
 {
-	"extends": "stylelint-config-nixon"
+  "extends": "stylelint-config-nixon"
 }
 ```
 
@@ -34,10 +34,10 @@ npm install stylelint-scss --save-dev
 
 ```json
 {
-	"extends": [
-		"stylelint-config-nixon",
-		"stylelint-config-nixon/scss"
-	]
+  "extends": [
+    "stylelint-config-nixon",
+    "stylelint-config-nixon/scss"
+  ]
 }
 ```
 
@@ -49,9 +49,9 @@ This configuration should always come last.
 
 ```json
 {
-	"extends": [
-		"stylelint-config-nixon",
-		"stylelint-config-nixon/prettier"
-	]
+  "extends": [
+    "stylelint-config-nixon",
+    "stylelint-config-nixon/prettier"
+  ]
 }
 ```
