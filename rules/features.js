@@ -8,6 +8,7 @@ module.exports = {
 
 		// Color
 		'color-function-notation': null,
+		'color-hex-alpha': null,
 		'color-named': 'never',
 		'color-no-hex': null,
 
