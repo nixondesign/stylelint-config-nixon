@@ -20,6 +20,9 @@ module.exports = {
 		// Unit
 		'unit-no-unknown': true,
 
+		// Custom property
+		'custom-property-no-missing-var-function': true,
+
 		// Property
 		'property-no-unknown': true,
 
