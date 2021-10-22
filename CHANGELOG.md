@@ -1,5 +1,7 @@
 # 5.0.0
 
+- Require stylelint 14.0.0
+- Require stylelint-scss 4.0.0
 - Added `color-hex-alpha` rule
 - Added `custom-property-no-missing-var-function` rule
 
@@ -84,8 +86,6 @@
 - Update stylelint-scss to v3.6.0
 
 # v2.0.0
-
-## Added
 
 - Added `linebreaks` rule
 - Added `no-empty-first-line rule` rule
