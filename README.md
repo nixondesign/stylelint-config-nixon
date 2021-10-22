@@ -26,10 +26,10 @@ Contains our standard rules to be used across all projects.
 
 ### stylelint-config-nixon/scss
 
-Contains rules specific to SASS/SCSS. Requires the [stylelint-scss](https://github.com/kristerkari/stylelint-scss) plugin.
+Contains rules specific to SASS/SCSS. Requires the [stylelint-scss](https://github.com/kristerkari/stylelint-scss) plugin and the [postcss-scss](https://github.com/postcss/postcss-scss) parser.
 
 ```
-npm install stylelint-scss --save-dev
+npm install --save-dev stylelint-scss postcss-scss
 ```
 
 ```json
@@ -37,7 +37,8 @@ npm install stylelint-scss --save-dev
   "extends": [
     "stylelint-config-nixon",
     "stylelint-config-nixon/scss"
-  ]
+  ],
+  "customSyntax": "postcss-scss",
 }
 ```
 
