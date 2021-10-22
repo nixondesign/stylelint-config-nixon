@@ -1,4 +1,7 @@
-# Changelog
+# 5.0.0
+
+- Added `color-hex-alpha` rule
+- Added `custom-property-no-missing-var-function` rule
 
 # 4.0.0
 
@@ -104,12 +107,12 @@ Release v1.0.0
 - Disallow empty lines before the first nested ruleset
 - Allow double slash block comments
 
-## v0.2.0
+# v0.2.0
 
 - Add rules for scss if/else
 - Update comment rule to allow new lines when nested
 - Add rule for newlines before double slash comments (scss)
 
-## v0.1.0 
+# v0.1.0 
 
 - Initial release
