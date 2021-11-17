@@ -93,6 +93,9 @@ module.exports = {
 		'selector-pseudo-element-disallowed-list': null,
 		'selector-pseudo-element-colon-notation': 'double',
 
+		// Rules
+		'rule-selector-property-disallowed-list': null,
+
 		// Media feature
 		'media-feature-name-allowed-list': null,
 		'media-feature-name-disallowed-list': null,
