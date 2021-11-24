@@ -1,6 +1,6 @@
 {
 	"name": "stylelint-config-nixon",
-	"version": "5.0.0",
+	"version": "5.1.0",
 	"description": "Nixon Design's Stylelint config",
 	"main": "index.js",
 	"author": "Nixon Design Ltd",
@@ -16,7 +16,7 @@
 		"url": "https://github.com/nixondesign/stylelint-config-nixon"
 	},
 	"peerDependencies": {
-		"stylelint": "^14.0.0",
+		"stylelint": "^14.1.0",
 		"stylelint-scss": "^4.0.0"
 	},
 	"peerDependenciesMeta": {

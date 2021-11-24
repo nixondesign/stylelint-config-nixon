@@ -1,3 +1,8 @@
+# 5.1.0
+
+- Require stylelint 14.1.0
+- Added `rule-selector-property-disallowed-list` rule
+
 # 5.0.0
 
 - Require stylelint 14.0.0
