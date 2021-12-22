@@ -41,6 +41,9 @@ module.exports = {
 		'scss/at-rule-no-unknown': true,
 		'scss/at-rule-conditional-no-parentheses': null,
 
+		// @use
+		'scss/at-use-no-unnamespaced': null,
+
 		// Variables
 		'scss/dollar-variable-colon-newline-after': 'always-multi-line',
 		'scss/dollar-variable-colon-space-after': 'always-single-line',
