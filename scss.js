@@ -53,6 +53,7 @@ module.exports = {
 		'scss/dollar-variable-empty-line-before': null,
 		'scss/dollar-variable-first-in-block': null,
 		'scss/dollar-variable-no-missing-interpolation': true,
+		'scss/dollar-variable-no-namespaced-assignment': true,
 		'scss/dollar-variable-pattern': null,
 
 		// Placeholder
