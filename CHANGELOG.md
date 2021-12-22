@@ -1,3 +1,9 @@
+# 5.2.0
+
+- Increased `stylelint-scss` requirement to 4.1.0
+- Added `scss/at-use-no-unnamespaced` rule
+- Added `scss/dollar-variable-no-namespaced-assignment` rule
+
 # 5.1.0
 
 - Require stylelint 14.1.0
