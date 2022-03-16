@@ -54,6 +54,7 @@ module.exports = {
 
 		// Declaration
 		'declaration-no-important': true,
+		'declaration-property-max-values': null,
 		'declaration-property-unit-allowed-list': null,
 		'declaration-property-unit-disallowed-list': null,
 		'declaration-property-value-allowed-list': null,
