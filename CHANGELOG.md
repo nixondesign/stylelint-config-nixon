@@ -1,3 +1,7 @@
+# 5.4.0
+
+- Added `declaration-property-max-values` rule
+
 # 5.3.0
 
 - Added `scss/function-no-unknown` rule
