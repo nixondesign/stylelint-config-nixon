@@ -1,6 +1,7 @@
 # 5.4.0
 
 - Added `declaration-property-max-values` rule
+- Increased `stylelint` requirement to 14.6.0
 
 # 5.3.0
 
