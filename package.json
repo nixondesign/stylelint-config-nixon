@@ -17,7 +17,7 @@
 	},
 	"peerDependencies": {
 		"stylelint": "^14.1.0",
-		"stylelint-scss": "^4.1.0"
+		"stylelint-scss": "^4.2.0"
 	},
 	"peerDependenciesMeta": {
 		"stylelint-scss": {
@@ -26,6 +26,6 @@
 	},
 	"devDependencies": {
 		"stylelint": "^14.1.0",
-		"stylelint-scss": "^4.1.0"
+		"stylelint-scss": "^4.2.0"
 	}
 }

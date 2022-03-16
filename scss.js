@@ -81,6 +81,8 @@ module.exports = {
 
 		// Function
 		'scss/function-color-relative': true,
+		'at-rule-no-unknown': null,
+		'scss/function-no-unknown': true,
 		'scss/function-quote-no-quoted-strings-inside': null,
 		'scss/function-unquote-no-unquoted-strings-inside': null,
 
