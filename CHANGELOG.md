@@ -1,6 +1,7 @@
 # 5.3.0
 
 - Added `scss/function-no-unknown` rule
+- Increased `stylelint-scss` requirement to 4.2.0
 
 # 5.2.0
 
