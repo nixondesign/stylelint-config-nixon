@@ -79,7 +79,6 @@ module.exports = {
 		'selector-max-class': null,
 		'selector-max-combinators': null,
 		'selector-max-compound-selectors': 3,
-		'selector-max-empty-lines': 0,
 		'selector-max-id': 0,
 		'selector-max-pseudo-class': null,
 		'selector-max-specificity': null,

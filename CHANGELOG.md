@@ -1,6 +1,7 @@
 # Unreleased
 
 - Update to Stylelint 15
+- Removed deprecated rules
 
 # 5.4.0
 
