@@ -1,6 +1,7 @@
 # Unreleased
 
 - Update to Stylelint 15
+- Updated stylelint-scss to 4.4.0
 - Removed deprecated rules
 
 # 5.4.0
