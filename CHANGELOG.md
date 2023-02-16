@@ -1,3 +1,7 @@
+# Unreleased
+
+- Update to Stylelint 15
+
 # 5.4.0
 
 - Added `declaration-property-max-values` rule

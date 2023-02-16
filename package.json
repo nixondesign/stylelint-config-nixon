@@ -16,7 +16,7 @@
 		"url": "https://github.com/nixondesign/stylelint-config-nixon"
 	},
 	"peerDependencies": {
-		"stylelint": "^14.6.0",
+		"stylelint": "^15.0.0",
 		"stylelint-scss": "^4.2.0"
 	},
 	"peerDependenciesMeta": {
@@ -25,7 +25,8 @@
 		}
 	},
 	"devDependencies": {
-		"stylelint": "^14.6.0",
+		"postcss-scss": "^4.0.6",
+		"stylelint": "^15.0.0",
 		"stylelint-scss": "^4.2.0"
 	}
 }
