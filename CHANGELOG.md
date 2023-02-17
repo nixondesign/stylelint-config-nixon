@@ -1,3 +1,7 @@
+# 6.0.1
+
+- Fixed issue with standard rules not being applied
+
 # 6.0.0
 
 - Updated to stylelint to 15.0.0
