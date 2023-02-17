@@ -1,4 +1,4 @@
-# Unreleased
+# 6.0.0
 
 - Updated to stylelint to 15.0.0
 - Updated stylelint-scss to 4.4.0
