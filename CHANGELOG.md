@@ -1,8 +1,16 @@
 # Unreleased
 
-- Update to Stylelint 15
+- Updated to stylelint to 15.0.0
 - Updated stylelint-scss to 4.4.0
 - Removed deprecated rules
+- Configured `annotation-no-unknown` rule
+- Configured `declaration-property-value-no-unknown` rule
+- Configured `import-notation` rule
+- Configured `keyframe-block-no-duplicate-selectors` rule
+- Configured `keyframe-selector-notation` rule
+- Configured `media-feature-name-unit-allowed-list` rule
+- Configured `media-feature-range-notation` rule
+- Configured `selector-not-notation` rule
 
 # 5.4.0
 
