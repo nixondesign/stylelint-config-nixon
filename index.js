@@ -2,7 +2,7 @@ module.exports = {
 	rules: {
 
 		'alpha-value-notation': 'number',
-		'annotation-no-unknown': true,
+		'annotation-no-unknown': false,
 		'at-rule-allowed-list': null,
 		'at-rule-disallowed-list': ['extend'],
 		'at-rule-empty-line-before': ['always', { except: ['blockless-after-same-name-blockless', 'first-nested'], ignore: ['after-comment'], ignoreAtRules: ['else'] }],
