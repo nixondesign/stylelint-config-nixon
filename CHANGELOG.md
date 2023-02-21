@@ -1,3 +1,7 @@
+# 6.1.1
+
+- Fixed incorrect value for `annotation-no-unknown`
+
 # 6.1.0
 
 - Disabled `annotation-no-unknown`
