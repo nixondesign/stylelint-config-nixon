@@ -3,6 +3,7 @@ module.exports = {
 
 		'alpha-value-notation': 'number',
 		'annotation-no-unknown': false,
+		'annotation-no-unknown': null,
 		'at-rule-allowed-list': null,
 		'at-rule-disallowed-list': ['extend'],
 		'at-rule-empty-line-before': ['always', { except: ['blockless-after-same-name-blockless', 'first-nested'], ignore: ['after-comment'], ignoreAtRules: ['else'] }],
