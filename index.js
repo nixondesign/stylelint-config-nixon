@@ -37,7 +37,7 @@ module.exports = {
 		'declaration-property-unit-disallowed-list': null,
 		'declaration-property-value-allowed-list': null,
 		'declaration-property-value-disallowed-list': null,
-		'declaration-property-value-no-unknown': true,
+		'declaration-property-value-no-unknown': null,
 		'font-family-name-quotes': 'always-unless-keyword',
 		'font-family-no-duplicate-names': true,
 		'font-family-no-missing-generic-family-keyword': null,
