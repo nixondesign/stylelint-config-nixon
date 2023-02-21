@@ -1,3 +1,8 @@
+# 6.1.0
+
+- Disabled `annotation-no-unknown`
+- Disabled `declaration-property-value-no-unknown`
+
 # 6.0.1
 
 - Fixed issue with standard rules not being applied
