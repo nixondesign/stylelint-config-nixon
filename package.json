@@ -6,7 +6,6 @@
 	"author": "Nixon Design Ltd",
 	"license": "MIT",
 	"files": [
-		"rules",
 		"index.js",
 		"prettier.js",
 		"scss.js"
