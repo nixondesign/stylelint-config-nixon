@@ -28,7 +28,8 @@ module.exports = {
 		'custom-property-pattern': null,
 		'declaration-block-no-duplicate-custom-properties': true,
 		'declaration-block-no-duplicate-properties': [true, { ignore: ['consecutive-duplicates-with-different-values'] }],
-		'declaration-block-no-redundant-longhand-properties': true,
+		// We don't want to replace top/bottom/left/right with inset due to browser support.
+		'declaration-block-no-redundant-longhand-properties': [true, { ignoreShorthands: ['inset'] }],
 		'declaration-block-no-shorthand-property-overrides': true,
 		'declaration-block-single-line-max-declarations': 1,
 		'declaration-empty-line-before': null,
