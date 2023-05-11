@@ -1,6 +1,5 @@
 module.exports = {
 	rules: {
-
 		'alpha-value-notation': 'number',
 		'annotation-no-unknown': false,
 		'annotation-no-unknown': null,
