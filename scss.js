@@ -38,6 +38,7 @@ module.exports = {
 		'scss/at-mixin-pattern': null,
 
 		// @rule
+		'at-rule-no-unknown': null,
 		'scss/at-rule-no-unknown': true,
 		'scss/at-rule-conditional-no-parentheses': null,
 
@@ -81,7 +82,6 @@ module.exports = {
 
 		// Function
 		'scss/function-color-relative': true,
-		'at-rule-no-unknown': null,
 		'scss/function-no-unknown': true,
 		'scss/function-quote-no-quoted-strings-inside': null,
 		'scss/function-unquote-no-unquoted-strings-inside': null,
