@@ -1,3 +1,7 @@
+# 6.2.0
+
+- Allow longhand properties for inset.
+
 # 6.1.1
 
 - Fixed incorrect value for `annotation-no-unknown`
