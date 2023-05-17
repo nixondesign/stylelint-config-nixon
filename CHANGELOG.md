@@ -1,3 +1,7 @@
+# 7.0.0
+
+- Require `stylelint-scss` 5.
+
 # 6.2.0
 
 - Allow longhand properties for inset.
